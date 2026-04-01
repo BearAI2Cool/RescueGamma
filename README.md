@@ -39,18 +39,12 @@
     <img width="796" height="729" alt="image" src="https://github.com/user-attachments/assets/e767f9d3-909f-4a01-a190-861aad755e00" />
 # 打包分发
 
-我发布了用nuitka打包的免安装版，Windows10、11应该可以正常使用
+我发布了用 Nuitka 打包的免安装版，Windows10、11 用户可以使用
 
 # 一杯咖啡
 
-大家觉得这个软件有用、能帮到自己的话，可以打赏我一杯瑞幸香草丝绒咖啡喝~
-感谢Thanks♪(･ω･)ﾉ帅哥美女老板们的支持~
-
 - 微信号：Moss_Go
-- 邮箱：2025aibear@gmail.com / edu_datacenter@163.com
-- 一杯咖啡：
-  
-<img width="228" height="225" alt="image" src="https://github.com/user-attachments/assets/1fc41be3-98b6-402d-98ea-4103d98b9026" />
+- 邮箱：2025aibear@gmail.com
 
     
 
